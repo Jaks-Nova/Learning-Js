@@ -16,9 +16,9 @@ do {
 // CODIGO PARA VALIDACION Y MENSAJES
 
 if (edad < 18) {
-    alert(Hola ${nombre}, eres menor de edad. ¡Sigue aprendiendo y disfrutando del código!);
+    alert(`Hola ${nombre}, eres menor de edad. ¡Sigue aprendiendo y disfrutando del código!`);
 } else { 
-    alert(Hola ${nombre}, eres mayor de edad. ¡Prepárate para grandes oportunidades en el mundo de la programación!);
+    alert(`Hola ${nombre}, eres mayor de edad. ¡Prepárate para grandes oportunidades en el mundo de la programación!`);
 }
 
 //FINALIZACION DEL PROGRAMA
