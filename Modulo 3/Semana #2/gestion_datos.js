@@ -20,7 +20,7 @@ console.log("Set de nombres de productos únicos:", nombresUnicos);
 // Crear un Map que asocie categorías con un array de productos
 const categoriasProductos = new Map([
   ["Carnes", ["Carne","Pollo"]],
-  ["Lacteos", ["Leche", "Queso"]]
+  ["Lacteos", ["Leche", "Queso"]],
   ["Fruta", ["Mora"]],
   ["Harinas", ["Pan"]]
 ]);
