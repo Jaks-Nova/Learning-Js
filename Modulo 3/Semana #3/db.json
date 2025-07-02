@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Pan",
+      "precio": 1500
+    },
+     {
+      "id": 2,
+      "nombre": "Queso",
+      "precio": 4500
+    },
+    {
+      "id": 3,
+      "nombre": "Bocadillo",
+      "precio": 400
+    },
+    {
+      "id": 4,
+      "nombre": "Leche",
+      "precio": 6400
+    },
+    {
+      "id": 5,
+      "nombre": "Arroz",
+      "precio": 4000
+    }
+  ]
+}
