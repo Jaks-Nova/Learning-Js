@@ -33,7 +33,7 @@ document.getElementById('saveButton').addEventListener('click', () => {
     displayData();
     updateInteractionCount();
   } else {
-    alert('Por favor, ingresa un nombre válido y una edad numérica no negativa.');
+    alert('Por favor, ingresa un nombre valido y una edad numerica no negativa.');
   }
 });
 
